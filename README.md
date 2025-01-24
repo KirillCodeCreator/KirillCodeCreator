@@ -52,5 +52,5 @@
 
 ### Сайт для голосовой нейросети
 
-- **Описание**: Писал фронтенд на JavaScript.
+- **Описание**: Писал фронтенд на JavaScript + HTML/CSS.
 - **Ссылка**: [Репозиторий](https://github.com/KirillCodeCreator/CodeFest)
