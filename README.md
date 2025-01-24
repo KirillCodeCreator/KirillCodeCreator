@@ -56,7 +56,22 @@
 - **Описание**: Писал фронтенд на JavaScript + HTML/CSS.
 - **Ссылка**: [Репозиторий](https://github.com/KirillCodeCreator/CodeFest)
 
-### Сайт для онлайн-поликлиники.
+### Сайт для онлайн-поликлиники
 
 - **Описание**: Писал бекенд на Flask (Python) и фронтенд на bootstrap.
 - **Ссылка**: [Репозиторий](https://github.com/KirillCodeCreator/flask-project/tree/main)
+
+### Работа с API Яндекс-карт
+
+- **Описание**: Писал на Python.
+- **Ссылка**: [Репозиторий](https://github.com/KirillCodeCreator/MapApiYandex)
+
+### Лёгкий web-framework
+
+- **Описание**: Писал на JavaScript.
+- **Ссылка**: [Репозиторий](https://github.com/KirillCodeCreator/JS-web-framework)
+
+### ВК-боты
+
+- **Описание**: Писал на Python.
+- **Ссылка**: [Репозиторий](https://github.com/KirillCodeCreator/VK-bots/tree/main)
