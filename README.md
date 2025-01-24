@@ -36,6 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="XML" alt="XML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -54,3 +55,8 @@
 
 - **Описание**: Писал фронтенд на JavaScript + HTML/CSS.
 - **Ссылка**: [Репозиторий](https://github.com/KirillCodeCreator/CodeFest)
+
+### Сайт для онлайн-поликлиники.
+
+- **Описание**: Писал бекенд на Flask (Python) и фронтенд на bootstrap.
+- **Ссылка**: [Репозиторий](https://github.com/KirillCodeCreator/flask-project/tree/main)
